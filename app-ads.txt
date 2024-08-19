@@ -24,7 +24,7 @@ thebrave.io, 1234633, RESELLER, c25b2154543746ac
 video.unrulymedia.com, 322585001, RESELLER
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
-
+google.com, pub-5904408074441373, DIRECT, f08c47fec0942fa0
 google.com, pub-9861239042906842, DIRECT, f08c47fec0942fa0
 
 pangleglobal.com, 69708, DIRECT
