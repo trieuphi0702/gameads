@@ -1072,3 +1072,4 @@ xandr.com, 14082, RESELLER
 xandr.com, 7353, RESELLER, f5ab79cb980f11d1
 Xapads.com, 117219, RESELLER
 Xapads.com, 155860, RESELLER
+facebook.com, 549285922282293, DIRECT, c3e20eee3f780d68
